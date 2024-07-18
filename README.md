@@ -29,6 +29,19 @@
   <h3>STUDYING</h3>
   <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white" />
   <img src="https://img.shields.io/badge/React Query-FF4154.svg?style=for-the-badge&logo=React query&logoColor=white" />
+
+  <br>
+  <h3>Tools</h3>
+  
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  
+  
+
+  
   
   
   
