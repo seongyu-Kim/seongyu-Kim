@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=98D4FF&height=300&section=header&text=SEONGYU's%20GITHUB!&fontSize=60" alt="header">
+<!--   <img src="https://capsule-render.vercel.app/api?type=Waving&color=98D4FF&height=300&section=header&text=SEONGYU's%20GITHUB!&fontSize=60" alt="header"> -->
+  <img src="./header.png" alt="header" height="300">
 </div>
 
 
