@@ -46,7 +46,7 @@
   
   
 </div>
-
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongyu-Kim&layout=compact&theme=nord&hide_border=true" />
 
 <!--
 **seongyu-Kim/seongyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
