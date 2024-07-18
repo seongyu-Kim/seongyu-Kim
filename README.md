@@ -6,6 +6,8 @@
   <p>SKILLS</p>
 </div>
 
+<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=이름&logoColor=색상">
+
 
 
   
@@ -22,6 +24,11 @@
 
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />
+  
 </div>
 
 
