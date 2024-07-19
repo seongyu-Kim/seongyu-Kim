@@ -39,7 +39,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <a herf="https://gratis-walkover-4f0.notion.site/d4ac45e6dbc24bf080af59d27edfec1d?pvs=4"><img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" /></a>
   
   
 
