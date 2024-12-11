@@ -22,11 +22,11 @@
   <br>
 
   <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-3578E5.svg?style=for-the-badge&logo=Zustand&logoColor=white" />
 
   <br>
   
   <h3>📚Studying📚</h3>
-  <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=for-the-badge&logo=Recoil&logoColor=white" />
   <img src="https://img.shields.io/badge/React Query-FF4154.svg?style=for-the-badge&logo=React query&logoColor=white" />
 
   <br>
