@@ -28,6 +28,7 @@
   
   <h3>📚Studying📚</h3>
   <img src="https://img.shields.io/badge/React Query-FF4154.svg?style=for-the-badge&logo=React query&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind CSS-DB7093?style=for-the-badge&logo=tailwind css&logoColor=white">
 
   <br>
   <h3>🛠️Tools🛠️</h3>
